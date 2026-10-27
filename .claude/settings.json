@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(rm -r:*)",
+      "Bash(rm -fr:*)",
+      "Bash(git clean:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(find * -delete:*)"
+    ]
+  }
+}

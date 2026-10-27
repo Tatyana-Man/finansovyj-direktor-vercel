@@ -1,0 +1,20 @@
+{
+  "_note": "Промокоды школ (от пользователя, 10.10.2026). Применяются ко всем курсам школы по домену.",
+  "mip.institute": {"code": "onlinekursy", "discount": "10%"},
+  "psychodemia.ru": {"code": "OnlineKursy", "discount": "5000 ₽"},
+  "talentsy.ru": {"code": "EDPART5", "discount": "5%"},
+  "mipoin.ru": {"code": "onlinekursy", "discount": "5%"},
+  "eduson.academy": {"code": "RATING5", "discount": "5%"},
+  "moscow.mba": {"code": "onlinekursy", "discount": "10%"},
+  "mipo.msk.ru": {"code": "onlinekursy", "discount": "10%"},
+  "ipo.msk.ru": {"code": "onlinekursy12", "discount": "12%"},
+  "uprav.ru": {"code": "onlinekursy20", "discount": "20%"},
+  "mbschool.ru": {"code": "onlinekursy10", "discount": "10%"},
+  "mitm.institute": {"code": "Partners15", "discount": "15%"},
+  "sf.education": {"code": "onlinekursy", "discount": "15%"},
+  "khs.ru": {"code": "EDP", "discount": "10%"},
+  "design.hse.ru": {"code": "onlinekursy", "discount": "5%"},
+  "nadpo.ru": {"code": "onlinekursy", "discount": "5%"},
+  "ncrdo.ru": {"code": "onlinekursy", "discount": "5%"},
+  "appkk.ru": {"code": "onlinekursy", "discount": "5%"}
+}

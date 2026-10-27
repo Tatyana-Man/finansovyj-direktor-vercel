@@ -1,0 +1,301 @@
+{
+ "topics": [
+  [
+   "budget",
+   "Бюджетирование"
+  ],
+  [
+   "cash",
+   "Денежные потоки и платёжный календарь"
+  ],
+  [
+   "mgmt",
+   "Управленческий учёт и отчётность"
+  ],
+  [
+   "analysis",
+   "Анализ финансовой отчётности"
+  ],
+  [
+   "ifrs",
+   "МСФО"
+  ],
+  [
+   "invest",
+   "Оценка инвестпроектов и бизнеса (NPV, IRR, DCF)"
+  ],
+  [
+   "model",
+   "Финансовое моделирование"
+  ],
+  [
+   "funding",
+   "Привлечение финансирования: кредиты, лизинг, инвесторы"
+  ],
+  [
+   "tax",
+   "Налоговое планирование"
+  ],
+  [
+   "risk",
+   "Управление финансовыми рисками"
+  ],
+  [
+   "team",
+   "Организация финансовой службы"
+  ],
+  [
+   "digital",
+   "Цифровые инструменты: Excel, BI, ИИ"
+  ]
+ ],
+ "courses": {
+  "https://eduson.academy/findir": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://eduson.academy/findir-pro": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "invest",
+   "model",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://sf.education/finmanager": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://sf.education/digitalcfo": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://sf.education/minimba_finmanager": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://mbschool.ru/seminars/7468/": [
+   "budget",
+   "cash",
+   "mgmt",
+   "model",
+   "tax",
+   "risk",
+   "team",
+   "digital"
+  ],
+  "https://mbschool.ru/seminars/intensive_mba/upravlenie-finansami/": [
+   "budget",
+   "mgmt",
+   "analysis",
+   "invest",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://kidpo.ru/pp/finansovyy-direktor/": [
+   "digital"
+  ],
+  "https://kidpo.ru/pp/finansovyy-direktor-banka-pp/": [
+   "digital"
+  ],
+  "https://ecodpo.ru/finansovyy-direktor-pp/": [
+   "budget",
+   "mgmt",
+   "analysis",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://vado-dpo.ru/kursy/finansovyj_direktor": [],
+  "https://mupp-dpo.ru/kursy/finansovyj_direktor": [
+   "invest",
+   "tax"
+  ],
+  "https://skillbox.ru/course/financial-director/": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://uprav.ru/finansy-economics/finansovyy-direktor/": [
+   "budget",
+   "cash",
+   "mgmt",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk"
+  ],
+  "https://uprav.ru/finansy-economics/finansovyy-direktor-professionalnaya-perepodgotovka/": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "invest",
+   "model",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://ncpo.ru/profperepodgotovka/pp-finansovyy-direktor/": [
+   "budget",
+   "cash",
+   "mgmt",
+   "ifrs",
+   "invest",
+   "funding",
+   "tax",
+   "risk",
+   "team"
+  ],
+  "https://moscow.mba/programs/profession/online/finansovyj-direktor": [
+   "budget",
+   "mgmt",
+   "analysis",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://mipo.msk.ru/professions/finansovyj-menedzhment/finansovyj-direktor": [
+   "budget",
+   "risk"
+  ],
+  "https://mitm.institute/programs/kursy/menedzhment/perepodgotovka/finansovyj-direktor": [
+   "budget",
+   "analysis",
+   "funding",
+   "risk"
+  ],
+  "https://mitu.institute/programs/dopolnitelnoe-obrazovanie/menedzhment/finansovyj-direktor": [],
+  "https://apokdpo.ru/professionalnaya-perepodgotovka/ekonomika-i-finansy/finansovyj-direktor/": [
+   "analysis",
+   "tax",
+   "risk",
+   "team",
+   "digital"
+  ],
+  "https://apokdpo.ru/professionalnaya-perepodgotovka/bankovskoe-delo/finansovyy-direktor-banka-pp/": [
+   "digital"
+  ],
+  "https://lp.e-mba.ru/findir": [
+   "budget",
+   "cash",
+   "invest",
+   "model",
+   "risk",
+   "digital"
+  ],
+  "https://psy.nadpo.ru/financial_director": [
+   "budget",
+   "mgmt",
+   "analysis",
+   "invest",
+   "model",
+   "tax",
+   "risk",
+   "team",
+   "digital"
+  ],
+  "https://appkk.ru/dist_ob/finansovyy-direktor/": [
+   "budget",
+   "mgmt",
+   "tax",
+   "risk",
+   "team"
+  ],
+  "https://eduson.academy/director-economy-finance": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "ifrs",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "team",
+   "digital"
+  ],
+  "https://eduson.academy/director-economy-finance-pro": [
+   "budget",
+   "cash",
+   "mgmt",
+   "analysis",
+   "invest",
+   "model",
+   "funding",
+   "tax",
+   "risk",
+   "digital"
+  ],
+  "https://mipo.msk.ru/professions/finansovyj-menedzhment/direktor-po-finansam": [
+   "mgmt",
+   "risk"
+  ],
+  "https://mipo.msk.ru/mba/mba/upravlenie-finansami-1": [
+   "budget",
+   "analysis"
+  ],
+  "https://e-mba.ru/catalog/direktor-po-finansam": [
+   "budget",
+   "mgmt",
+   "invest",
+   "funding",
+   "risk",
+   "team",
+   "digital"
+  ]
+ }
+}
