@@ -1274,6 +1274,8 @@ def build():
     if (ROOT / "data/img").exists():
         keep = {f"stati-{a['slug']}.jpg" for a in ARTICLES + DRAFTS}  # обложки только своих статей
         shutil.copytree(ROOT / "data/img", OUT / "img", ignore=lambda d, names: [n for n in names if n.startswith("stati-") and n not in keep])
+    for f in (ROOT / "data/static").glob("*"):  # файлы для корня сайта (ключ IndexNow)
+        shutil.copy(f, OUT / f.name)
     for f in ("favicon.png", "apple-touch-icon.png", "favicon.ico"):  # PNG/ICO-версии иконки для браузеров без SVG-фавиконов
         if (ROOT / "assets" / f).exists():
             shutil.copy(ROOT / "assets" / f, OUT / f)
