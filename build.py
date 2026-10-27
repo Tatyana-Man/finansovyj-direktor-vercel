@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 # Домен сайта — для canonical, Open Graph, sitemap.xml, robots.txt и микроразметки.
 SITE_URL = "https://finansovyj-direktor.vercel.app"
-# Счётчик аналитики (вставляется только в боевую версию deploy/). Пусто, пока владелец не пришлёт новый код.
+# Счётчик аналитики не используется (решение владельца) — поэтому нет и окна про cookie.
 METRIKA = ""
 # Мета-теги подтверждения прав в Яндекс Вебмастере и Google Search Console. Пусто — теги не выводятся.
 YANDEX_VERIFICATION = ""
@@ -299,7 +299,6 @@ def page(pre, title, desc, body, jsonld=None, crumbs=None, image=None, og_type="
 <header class="top"><div class="topin"><a class="logo" href="{link(pre, '')}" aria-label="{SITE_NAME}, {SITE_TAGLINE} — на главную"><span class="lg-mark" aria-hidden="true">CFO</span><span class="lg-t"><b>{SITE_NAME}</b><small>{SITE_TAGLINE}</small></span></a><button class="burger" type="button" aria-label="Меню" aria-expanded="false" aria-controls="mainnav"><span></span><span></span><span></span></button><nav id="mainnav" aria-label="Разделы">{nav}<a class="navcta" href="{link(pre, '')}#quiz">Тест подбора</a></nav></div></header>
 <main>{cr}{body}</main>
 <footer>{footer_nav(pre)}<p>Интернет-сайт носит информационный характер и ни при каких условиях не является публичной офертой, которая определяется положениями статьи 437 Гражданского кодекса РФ. Информация о программах курсов и иных условий, указанных на сайте, может быть изменена организацией предоставляющей услуги обучения в одностороннем порядке. Скриншоты с сайтов курсов могут отличаться от оригиналов. Информация по ценам, может отличаться от фактической, к моменту просмотра рейтинга.</p></footer>
-<div id="cookieBar" hidden role="dialog" aria-label="Использование cookie"><p>Мы используем файлы cookie, чтобы сайт работал корректно и становился удобнее. Продолжая пользоваться сайтом, вы соглашаетесь с их использованием.</p><button type="button" class="btn sm" id="cookieOk">Принять</button></div>
 {COMPARE_UI}<script>window.CMP_DATA={json.dumps(compare_data(), ensure_ascii=False)};window.SITE_PRE="{'/' if CLEAN else pre}";</script>
 <script src="{pre}assets/app.js"></script></body></html>"""
 
