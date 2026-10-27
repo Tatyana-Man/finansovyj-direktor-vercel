@@ -12,8 +12,8 @@ SITE_URL = "https://finansovyj-direktor.vercel.app"
 # Счётчик аналитики не используется (решение владельца) — поэтому нет и окна про cookie.
 METRIKA = ""
 # Мета-теги подтверждения прав в Яндекс Вебмастере и Google Search Console. Пусто — теги не выводятся.
-YANDEX_VERIFICATION = ""
-GOOGLE_VERIFICATION = ""
+YANDEX_VERIFICATION = "2c37edf3f95db143"
+GOOGLE_VERIFICATION = "x8ku3tLObG-hwPIOiQ99g589OET4aPKMgEkqxEXal50"
 # title главной задан владельцем (длиннее общего лимита 70 символов — исключение в check_meta)
 H_TITLE = "Обучение на Финансового Директора (CFO) — каталог онлайн-курсов: цены, сроки, отзывы учеников"
 SITE_NAME = "CFO Навигатор"
