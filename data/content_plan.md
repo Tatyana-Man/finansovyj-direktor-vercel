@@ -20,7 +20,7 @@
 | # | slug | Тема (интент) | Куда ведём | Статус |
 |---|------|---------------|-----------|--------|
 | 1 | debitorskaya-zadolzhennost | Дебиторская задолженность: как ускорить оплату от клиентов | povyshenie-kvalifikacii | опубликовано |
-| 2 | yunit-ekonomika | Юнит-экономика для финансового директора | dlya-sobstvennikov | черновик |
+| 2 | yunit-ekonomika | Юнит-экономика для финансового директора | dlya-sobstvennikov | опубликовано |
 | 3 | finansovyj-kontrolling | Финансовый контроллинг: что это и кто им занимается | perepodgotovka | в очереди |
 | 4 | ebitda-prostymi-slovami | EBITDA простыми словами: зачем её считают CFO и банки | msfo | в очереди |
 | 5 | kaznachejstvo-kompanii | Казначейство: как устроить согласование платежей | povyshenie-kvalifikacii | в очереди |
