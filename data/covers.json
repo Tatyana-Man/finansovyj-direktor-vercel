@@ -26,5 +26,9 @@
  {
   "slug": "debitorskaya-zadolzhennost",
   "theme": "mint-paper"
+ },
+ {
+  "slug": "yunit-ekonomika",
+  "theme": "steel"
  }
 ]
