@@ -21,7 +21,7 @@
 |---|------|---------------|-----------|--------|
 | 1 | debitorskaya-zadolzhennost | Дебиторская задолженность: как ускорить оплату от клиентов | povyshenie-kvalifikacii | опубликовано |
 | 2 | yunit-ekonomika | Юнит-экономика для финансового директора | dlya-sobstvennikov | опубликовано |
-| 3 | finansovyj-kontrolling | Финансовый контроллинг: что это и кто им занимается | perepodgotovka | в очереди |
+| 3 | finansovyj-kontrolling | Финансовый контроллинг: что это и кто им занимается | perepodgotovka | черновик |
 | 4 | ebitda-prostymi-slovami | EBITDA простыми словами: зачем её считают CFO и банки | msfo | в очереди |
 | 5 | kaznachejstvo-kompanii | Казначейство: как устроить согласование платежей | povyshenie-kvalifikacii | в очереди |
 | 6 | finansovaya-sluzhba-struktura | Структура финансовой службы в малой и средней компании | mba | в очереди |
